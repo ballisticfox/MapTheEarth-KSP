@@ -18,3 +18,7 @@ This is extremely WIP and will have a wiki on how to create your own tiles event
 ### List of Current Locations
 [Google Sheet with all of the current tiles](https://docs.google.com/spreadsheets/d/1yVba8PN7-0pzHPlstj0il8PK9jf9OkBUx0MRSHfFOI4/edit?usp=sharing)
 - Edwards AFB
+
+---
+### Incompatible Mods
+Make sure CanaveralPads is uninstalled if you are using the Cape Canaveral Tiles and the MTE Pads, MTE is intended as a replacement for them. Leaving CanaveralPads installed will result in a crash
